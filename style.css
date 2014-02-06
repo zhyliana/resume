@@ -1,0 +1,47 @@
+*{
+  font-family: "Avenir Next", "Century Gothic";
+  font-size: 16px;
+  font-weight: normal;
+}
+
+}
+
+h1{
+  font-weight:600;
+  font-size: 20px;
+  text-align: right;
+}
+
+h2{
+  text-align:justify;
+text-justify:inter-word;
+}
+
+ul{
+  margin-top:0px;
+  margin-bottom: 20px;
+}
+
+.dates{
+  float:right;
+}
+
+.title{
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.company{
+  font-weight: 500;
+ 
+}
+
+.description{
+  font-style:italic;
+}
+
+.places{
+  font-size:14px;
+}
+
+
